@@ -68,4 +68,3 @@ public class Item {
         return name + " with " + quantity + " items";
     }
 }
-
